@@ -1,0 +1,4 @@
+modelo\Veterinario.class
+config\Conexion.class
+controlador\VeterinarioController.class
+modelo\VeterinarioDAO.class
